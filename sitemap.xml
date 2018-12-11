@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/update/2018/12/10/welcome-to-jekyll.html</loc>
-<lastmod>2018-12-10T18:11:45-08:00</lastmod>
+<loc>http://localhost:4000/about/2018/12/10/howthissitewasmade.html</loc>
+<lastmod>2018-12-10T08:30:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/short-stories/2018/12/10/juniper.html</loc>
 <lastmod>2018-12-10T19:53:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/categories/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories.html</loc>
