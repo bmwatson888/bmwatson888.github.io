@@ -7,5 +7,30 @@ var store = [{
         "title": "Testng!",
         "excerpt":"test  ","categories": ["jekyll","update"],
         "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/12/10/testing-Copy-(2).html",
+        "teaser":null},{
+        "title": "Testng!",
+        "excerpt":"test  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/12/10/testing-Copy-(3).html",
+        "teaser":null},{
+        "title": "Testng!",
+        "excerpt":"test  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/12/10/testing-Copy-(4).html",
+        "teaser":null},{
+        "title": "Testng!",
+        "excerpt":"test  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/12/10/testing-Copy-(5).html",
+        "teaser":null},{
+        "title": "Testng!",
+        "excerpt":"test  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/12/10/testing-Copy.html",
+        "teaser":null},{
+        "title": "Testng!",
+        "excerpt":"test  ","categories": ["jekyll","update"],
+        "tags": [],
         "url": "http://localhost:4000/jekyll/update/2018/12/10/testing.html",
         "teaser":null}]
