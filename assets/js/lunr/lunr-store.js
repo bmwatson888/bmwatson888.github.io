@@ -7,5 +7,5 @@ var store = [{
         "title": "Juniper",
         "excerpt":"Living in the asteroid belt isn’t exactly a walk in the park. Neither is being a miner. Put them together, and you’ve got the most dangerous job this side of Jupiter’s orbit. Can’t really complain about the pay though; I’ll make more living and working here in two years than...","categories": ["Short-Stories"],
         "tags": [],
-        "url": "http://localhost:4000/short-stories/2018/12/10/testing.html",
+        "url": "http://localhost:4000/short-stories/2018/12/10/juniper.html",
         "teaser":null}]
