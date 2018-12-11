@@ -5,9 +5,16 @@
 <lastmod>2018-12-10T18:11:45-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/jekyll/update/2018/12/10/testing.html</loc>
+<lastmod>2018-12-10T18:11:45-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search.html</loc>
 </url>
 </urlset>
