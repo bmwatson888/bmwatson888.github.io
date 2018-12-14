@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"I’ve been an IT guy for two decades, and have two degrees in computer science related fields. During my time working as an “IT guy” and pursuing my education, I’ve always taken an interest in reading and telling stories. I’m a huge board gamer, and the thing I love most...","categories": ["About"],
         "tags": [],
         "url": "http://localhost:4000/about/2018/12/11/whatsthissiteallabout.html",
+        "teaser":null},{
+        "title": "6 Things I Learned From Not Drinking For 12 Weeks",
+        "excerpt":"I like to look at life’s challenges as opportunities. I’ve had a fungal infection on my small toenail on my right foot for years, and this year I made it one of my goals to take care of it. The issue really had no impact on my life, other than...","categories": ["Self-Improvement"],
+        "tags": [],
+        "url": "http://localhost:4000/self-improvement/2018/12/14/whatilearnedfrom12weeksofnotdrinking.html",
         "teaser":null}]
