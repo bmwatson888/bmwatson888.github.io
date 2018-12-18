@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"I like to look at life’s challenges as opportunities. I’ve had a fungal infection on my small toenail on my right foot for years, and this year I made it one of my goals to take care of it. The issue really had no impact on my life, other than...","categories": ["Self-Improvement"],
         "tags": [],
         "url": "http://localhost:4000/self-improvement/2018/12/14/whatilearnedfrom12weeksofnotdrinking.html",
+        "teaser":null},{
+        "title": "Windkeep - Part 1: The Arrival",
+        "excerpt":"After days of narrow, rocky mountain trails, the sight of the wide dirt pathway leading into the forested valley was certainly a welcome one. Although visibility will be reduced by the thick foliage of the forest, food and shelter will be in far larger supply than it was back on...","categories": ["WindkeepSeries"],
+        "tags": [],
+        "url": "http://localhost:4000/windkeepseries/2018/12/17/windkeep001.html",
         "teaser":null}]
