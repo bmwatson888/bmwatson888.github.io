@@ -21,6 +21,10 @@
 <lastmod>2018-12-17T16:58:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/windkeepseries/2018/12/19/windkeep002.html</loc>
+<lastmod>2018-12-19T08:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/categories/about/</loc>
 </url>
 <url>
@@ -31,5 +35,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

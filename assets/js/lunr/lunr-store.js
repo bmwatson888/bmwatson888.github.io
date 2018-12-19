@@ -23,4 +23,9 @@ var store = [{
         "excerpt":"After days of narrow, rocky mountain trails, the sight of the wide dirt pathway leading into the forested valley was certainly a welcome one. Although visibility will be reduced by the thick foliage of the forest, food and shelter will be in far larger supply than it was back on...","categories": ["WindkeepSeries"],
         "tags": [],
         "url": "http://localhost:4000/windkeepseries/2018/12/17/windkeep001.html",
+        "teaser":null},{
+        "title": "Windkeep - Part 2: The Scarlet Horde",
+        "excerpt":"The thick foliage of Oakdale began to dissipate as the afternoon slowly dimmed to evening. Despite an unlucky encounter with a couple of thieves, it took me less than a day to cover the thirty miles from the bottom of Mount Baldy to the town of Windkeep, evidence of which...","categories": ["WindkeepSeries"],
+        "tags": [],
+        "url": "http://localhost:4000/windkeepseries/2018/12/19/windkeep002.html",
         "teaser":null}]
