@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"The thick foliage of Oakdale began to dissipate as the afternoon slowly dimmed to evening. Despite an unlucky encounter with a couple of thieves, it took me less than a day to cover the thirty miles from the bottom of Mount Baldy to the town of Windkeep, evidence of which...","categories": ["WindkeepSeries"],
         "tags": [],
         "url": "http://localhost:4000/windkeepseries/2018/12/19/windkeep002.html",
+        "teaser":null},{
+        "title": "Windkeep - Part 3: Attrition",
+        "excerpt":"“The scouting party has returned!” the young guard shouted as he burst into my room, startling me from the best night sleep I’ve had in weeks. “Krueger just finished their debriefing…” I sat up in bed and rubbed my eyes. “Ok, I’ll be there,” I said, groggily. The guard excitedly...","categories": ["WindkeepSeries"],
+        "tags": [],
+        "url": "http://localhost:4000/windkeepseries/2018/12/21/windkeep003.html",
         "teaser":null}]
