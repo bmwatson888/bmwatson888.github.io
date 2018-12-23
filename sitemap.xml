@@ -25,8 +25,16 @@
 <lastmod>2018-12-19T08:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/about/2018/12/21/aboutbrian.html</loc>
+<lastmod>2018-12-21T08:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/windkeepseries/2018/12/21/windkeep003.html</loc>
 <lastmod>2018-12-21T08:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/windkeepseries/2018/12/23/windkeep004.html</loc>
+<lastmod>2018-12-23T08:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/categories/about/</loc>
@@ -39,6 +47,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/windkeep/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>

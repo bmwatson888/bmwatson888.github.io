@@ -29,8 +29,18 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/windkeepseries/2018/12/19/windkeep002.html",
         "teaser":null},{
+        "title": "My Bio",
+        "excerpt":"Hello! I’m Brian. As an IT guy and relatively well-versed in IT security, I’m very hesitant to post personal identifying information online. However, the below information is relatively safe, so here’s a very brief bio: Info Last Updated: December 21, 2018 Born: 1979 (not a millennial) Residence: Southern California (currently...","categories": ["About"],
+        "tags": [],
+        "url": "http://localhost:4000/about/2018/12/21/aboutbrian.html",
+        "teaser":null},{
         "title": "Windkeep - Part 3: Attrition",
         "excerpt":"“The scouting party has returned!” the young guard shouted as he burst into my room, startling me from the best night sleep I’ve had in weeks. “Krueger just finished their debriefing…” I sat up in bed and rubbed my eyes. “Ok, I’ll be there,” I said, groggily. The guard excitedly...","categories": ["WindkeepSeries"],
         "tags": [],
         "url": "http://localhost:4000/windkeepseries/2018/12/21/windkeep003.html",
+        "teaser":null},{
+        "title": "Windkeep - Part 4: The Mistake",
+        "excerpt":"It was approaching late afternoon, and the sun began to sink towards the mountains in the western sky. The invading force of the Scarlett horde was now clearly visible to the south, halting their approach atop a large, mostly treeless hill. The hill would provide them good visibility of both...","categories": ["WindkeepSeries"],
+        "tags": [],
+        "url": "http://localhost:4000/windkeepseries/2018/12/23/windkeep004.html",
         "teaser":null}]
