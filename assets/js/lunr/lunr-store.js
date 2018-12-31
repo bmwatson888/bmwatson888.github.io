@@ -43,4 +43,9 @@ var store = [{
         "excerpt":"It was approaching late afternoon, and the sun began to sink towards the mountains in the western sky. The invading force of the Scarlett horde was now clearly visible to the south, halting their approach atop a large, mostly treeless hill. The hill would provide them good visibility of both...","categories": ["WindkeepSeries"],
         "tags": [],
         "url": "http://localhost:4000/windkeepseries/2018/12/23/windkeep004.html",
+        "teaser":null},{
+        "title": "Most Played Board Games of 2018",
+        "excerpt":"Here’s my list of my most played games this year. Party games (6+ players) tended to be big hits in my household, since game night usually coincided with having friends/family over to the house. Codenames: This game was by far the most played amongst my gaming group. This game can...","categories": ["BoardGames"],
+        "tags": [],
+        "url": "http://localhost:4000/boardgames/2018/12/30/gamesof2018.html",
         "teaser":null}]
