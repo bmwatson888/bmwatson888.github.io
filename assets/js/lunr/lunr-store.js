@@ -48,4 +48,14 @@ var store = [{
         "excerpt":"Here’s my list of my most played games this year. Party games (6+ players) tended to be big hits in my household, since game night usually coincided with having friends/family over to the house. Codenames: This game was by far the most played amongst my gaming group. This game can...","categories": ["BoardGames"],
         "tags": [],
         "url": "http://localhost:4000/boardgames/2018/12/30/gamesof2018.html",
+        "teaser":null},{
+        "title": "Observations After 3 Months of the Ketogenic Diet",
+        "excerpt":"Fad diets really annoy me. I hate it when people jump into new habits without understanding how things work, or what goals they have in mind. For instance, when the Atkins diet first became popular, I thought the idea that consuming nothing but meat was silly concept. And it was...","categories": ["Health"],
+        "tags": [],
+        "url": "http://localhost:4000/health/2019/01/22/ketoobservations.html",
+        "teaser":null},{
+        "title": "Loathing Las Vegas - Part 1",
+        "excerpt":"I awoke with a start, covered from head to toe in a cold sweat. My heaving chest began to slow and I sat up in the darkness. Did I have a nightmare? Whatever caused me to awake in such a panic was lost in the haze of consciousness. I couldn’t...","categories": ["LoathingLVSeries"],
+        "tags": [],
+        "url": "http://localhost:4000/loathinglvseries/2019/01/26/loathinglasvegas001.html",
         "teaser":null}]
